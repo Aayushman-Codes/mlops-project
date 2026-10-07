@@ -1,3 +1,5 @@
+"""Train a Decision Tree model on the Iris dataset."""
+
 import pandas as pd
 import joblib
 
